@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Boluwatife!
-- 👀 I’m interested in Product Design, HTML, CSS possibly Javascript
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on UI/UX and Frontend projects(Amateur level)
-- 📫 How to reach me - Email: bolulawal99@gmail.com 
+- 👀 Interested in Product Design, HTML, CSS possibly Javascript
+- 🌱 Currently learning Javascript
+- 💞️ Looking to collaborate on UI/UX and Frontend projects(Amateur level)
+- 📫 Reach me - bolulawal99@gmail.com 
 
 <!---
 Bolujxl/Bolujxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
