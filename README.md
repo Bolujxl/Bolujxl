@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boluwatife!
-- 👀 Interested in Product Design, HTML, CSS possibly Javascript
+- 👀 Interested in Product Design & Frontend Development
 - 🌱 Currently learning Javascript
-- 💞️ Looking to collaborate on UI/UX and Frontend projects(Amateur level)
+- 💞️ Looking to collaborate on UI/UX and Frontend projects
 - 📫 Reach me - bolulawal99@gmail.com 
 
 <!---
