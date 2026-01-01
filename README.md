@@ -2,7 +2,7 @@
 - 👀 Interested in Product Design & Frontend Development
 - 🌱 Currently learning Javascript
 - 💞️ Looking to collaborate on UI/UX and Frontend projects
-- 📫 Reach me - hello@bolujxl.com
+- 📫 Reach me - bolujxl2@gmail.com
 
 <!---
 Bolujxl/Bolujxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
