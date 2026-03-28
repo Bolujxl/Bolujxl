@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Boluwatife!
-- 👀 Interested in Product Engineering & Frontend Development
-- 💞️ Looking to collaborate on Frontend Engineering projects
+- 👀 Interested in Product Engineering.
 - 📫 Reach me - bolujxl2@gmail.com
 
 <!---
