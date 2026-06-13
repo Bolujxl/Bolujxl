@@ -28,7 +28,7 @@ TypeScript, React, Tailwind, Vite, Figma. I'm comfortable across the stack but m
 
 ### Where to find me
 
-[Portfolio](https://hi.bolujxl.com) · [LinkedIn](https://linkedin.com/in/boluwalawal) · [X](https://x.com/bolujxl) · [Instagram](https://instagram.com/bolujxl) · [boluxxl2@gmail.com](mailto:bolujxl2@gmail.com)
+[Portfolio](https://hi.bolujxl.com) · [LinkedIn](https://linkedin.com/in/boluwalawal) · [X](https://x.com/bolujxl) · [Instagram](https://instagram.com/bolujxl) · [bolujxl2@gmail.com](mailto:bolujxl2@gmail.com)
 
 <!---
 Bolujxl/Bolujxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
