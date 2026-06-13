@@ -8,7 +8,7 @@ I care about the small decisions that make a thing feel calm and intentional —
 
 ### Selected work
 
-**[receipts.me](https://receipts.me)** — a spending dashboard built around a single sentence.
+**[receipts.me](https://receipts-me.vercel.app/)** — a spending dashboard built around a single sentence.
 Money is emotional. Most apps strip that out. This one keeps the calm and adds the clarity.
 *React · Tailwind v4 · Recharts · TypeScript*
 
